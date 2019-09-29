@@ -1,0 +1,40 @@
+@CHARSET "ISO-8859-1";
+
+body{
+	
+background: linear-gradient(110deg, #fdcd3b 60%, #ffed4b 60%);
+	
+}
+
+
+.form{
+	width :25%;
+	margin-left: 35%;
+	margin-top: 2%;
+	border-style: solid;
+}
+
+.container{
+margin-left: 20%;
+margin-top: 2%;
+width: 60%;
+}
+
+
+body h3{
+margin-top:1%;
+margin-left: 40%;
+color: black;
+}
+
+.blue-button {
+	background: blue;
+	font-family: 'Helvetica Neue', sans-serif;
+	font-size: 15px;
+	border-radius: 2px;
+}
+
+#cancelBtn{
+	background-color: red;
+}
+

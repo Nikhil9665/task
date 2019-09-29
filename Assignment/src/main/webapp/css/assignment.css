@@ -1,0 +1,18 @@
+@CHARSET "ISO-8859-1";
+
+
+/* SET LABEL COLOR */
+
+body label{
+color: white;
+font-size: 20px;
+}
+
+body h3{
+color: green;
+padding-left: 70px;
+}
+
+.fo{
+color: green;
+}
